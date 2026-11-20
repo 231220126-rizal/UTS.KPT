@@ -1,4 +1,4 @@
-# [Tautan Video YouTube Unlisted di sini]
+# Video Presentasi UTS: https://youtu.be/pnFZeQ9X_5A
 
 # 📚 Toko Buku API – UTS Komputasi Paralel dan Terdistribusi
 
